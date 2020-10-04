@@ -7,6 +7,7 @@ Some of the code examples use graphviz to generate visuals of the data structure
 
 ## Todo
 
-* debug/fix topological sort
 * strongly connected components
 * articulation points
+
+* debug/fix topological sort (done)
