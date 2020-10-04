@@ -4,3 +4,9 @@ This is a collection of code written for the purpose of learning certain algorit
 and data structures from *Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein*.
 
 Some of the code examples use graphviz to generate visuals of the data structures.
+
+## Todo
+
+* debug/fix topological sort
+* strongly connected components
+* articulation points

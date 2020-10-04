@@ -1,0 +1,13 @@
+FILES=visuals/Graph-*.dot
+for f in $FILES
+do
+    echo ./gen-dot-vis $f
+    ./gen-dot-vis $f
+done
+
+FILES=visuals/Graph-*.neato
+for f in $FILES
+do
+    echo ./gen-neato-vis $f
+    ./gen-neato-vis $f
+done

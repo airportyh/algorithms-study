@@ -1,0 +1,1 @@
+neato -T png -Gstart=100 -overlap=false $1 -o ${1%.neato}.png
