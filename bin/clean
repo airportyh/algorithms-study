@@ -1,0 +1,3 @@
+rm visuals/*
+rm -r *.bin.dSYM
+rm *.bin

@@ -1,2 +1,0 @@
-rm visuals/*
-rm -r *.bin.dSYM
