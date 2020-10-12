@@ -7,7 +7,11 @@ Some of the code examples use graphviz to generate visuals of the data structure
 
 ## Todo
 
-* strongly connected components
-* articulation points
+* Prim's minimum spanning tree algoritthm
+* Dijkstra's shortest-path algorithm
+* label back edges for articulation point
+* visualize strongly connect components
 
+* strongly connected components (done)
+* articulation points (done)
 * debug/fix topological sort (done)

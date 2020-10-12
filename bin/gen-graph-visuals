@@ -1,13 +1,13 @@
-FILES=visuals/Graph-*.dot
+FILES=visuals/*.dot
 for f in $FILES
 do
-    echo ./gen-dot-vis $f
-    ./gen-dot-vis $f
+    echo ../bin/gen-dot-vis $f
+    ../bin/gen-dot-vis $f
 done
 
-FILES=visuals/Graph-*.neato
+FILES=visuals/*.neato
 for f in $FILES
 do
-    echo ./gen-neato-vis $f
-    ./gen-neato-vis $f
+    echo ../bin/gen-neato-vis $f
+    ../bin/gen-neato-vis $f
 done
